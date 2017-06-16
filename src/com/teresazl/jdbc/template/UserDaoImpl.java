@@ -6,7 +6,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 
 /**
- * ����ģʽ
+ * 策略模式
  *
  * @author Teresa
  */
